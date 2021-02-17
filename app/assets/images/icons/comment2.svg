@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="65px" viewBox="0 0 66 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="comment" transform="translate(1.000000, 1.000000)" fill="#092341" fill-rule="nonzero">
+            <path d="M0.72,0.08 C0.524778619,0.0647959665 0.332676103,0.135755354 0.194215728,0.274215728 C0.0557553543,0.412676103 -0.0152040335,0.604778619 4.71844785e-16,0.8 L4.71844785e-16,47.28 C6.17127877e-15,47.677645 0.32235498,48 0.72,48 L48,48 L64,64 L64,0.72 C64.015204,0.524778619 63.9442446,0.332676103 63.8057843,0.194215728 C63.6673239,0.0557553543 63.4752214,-0.0152040335 63.28,1.42767742e-15 L0.8,1.42767742e-15 L0.72,0.08 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

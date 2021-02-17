@@ -28,7 +28,7 @@
     &__logo {
         position: absolute;
         background-color: $mainBlue;
-        padding: 13px 29px;
+        padding: 8px 29px;
         top: 0;
         left: 50%;
         transform: translateX(-50%);
@@ -37,12 +37,17 @@
         @mixin atMedium {
             left: auto;
             transform: translateX(0);
-            padding: 25px 36px;
+            padding: 10px 25px;
 
             .site-header--dark & {
-                transform: scale(.55);
+                transform: scale(.68);
             }
         }
+
+        img {
+            width: 100px;
+        }
+
     }
 
     &__menu-icon {

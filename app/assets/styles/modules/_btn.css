@@ -1,19 +1,25 @@
 .btn {
   background-color: $mainBlue;
-  color: #FFF;
+  color: $mainOrange;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 1.35rem;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, .1);
   text-decoration: none;
-  padding: .75rem 1.2rem;
+  padding: .65rem 1rem .55rem 1rem;
   display: inline-block;
 
   &--orange {
     background-color: $mainOrange;
+    color: $mainBlue;
   }
 
   &--large {
-    padding: 1.1rem 1.9rem;
+    padding: 1rem 1.5rem;
+    color: #fff;
 
     @mixin atSmall {
-      font-size: 1.25rem;
+      font-size: 1.75rem;
     }
   }
 
